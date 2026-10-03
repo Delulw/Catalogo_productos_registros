@@ -44,6 +44,13 @@ public class Producto {
 	protected Producto() {
 	}
 
+	public Producto(String nombre, String descripcion, String categoria, BigDecimal precioBase) {
+		this.nombre = nombre;
+		this.descripcion = descripcion;
+		this.categoria = categoria;
+		this.precioBase = precioBase;
+	}
+
 	public Long getId() {
 		return id;
 	}
