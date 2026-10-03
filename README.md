@@ -40,3 +40,9 @@ una lista vacía.
 
 De esta manera, el proyecto cubre dos necesidades: mantener los productos del
 catálogo y permitir que los clientes consulten cuáles están disponibles.
+
+INTEGRANTES:
+AVRIL ALEXA CARAVEO VELETA
+ADÁN GUIVANNI RAMIREZ ERIVES
+GUADALUPE SARAÍ JÁQUEZ AGUILAR
+
